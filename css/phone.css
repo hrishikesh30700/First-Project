@@ -1,0 +1,13 @@
+#navbar{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin :10px;
+    padding: 10px;
+}
+#services{
+    flex-direction: column;
+}
+#clients{
+    overflow:scroll;
+}
